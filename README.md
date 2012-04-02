@@ -1,6 +1,6 @@
 # Cricket Score Notifier
 
-It notifies you the live cricket score in the notification area. So that you get can live current score without refereshing page again and again and even without getting disturbed.
+It notifies the live cricket score in the notification area. So that you get can live current score without refereshing page again and again and even without getting disturbed.
 
 ## Using
 
